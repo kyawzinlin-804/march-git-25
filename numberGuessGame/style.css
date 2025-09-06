@@ -1,0 +1,55 @@
+
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contant{
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.489);
+    width: 400px;
+    height: 400px;
+    margin: 50px auto auto auto;
+}
+.myH1{
+    text-align: center;
+    color: #4547f1;
+}
+.box{
+    text-align: center;
+}
+#myLabel{
+        color: #4547f1;
+
+}
+#myInput{
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 1.5em;
+    border-color:#4547f1;
+}
+#myGuess{
+    padding: 10px 20px;
+    background-color: #4547f1;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 1.5em;
+}
+#myGuess:hover{
+    background-color: #7376ff;
+}
+#myGuess:active{
+    border: 3px solid #4547f1;
+    background-color: white;
+    color: #4547f1;
+    padding: 8px 16px;
+
+}
+#myPara{
+    text-align: center;
+    color: #4547f1;
+}
+
